@@ -1,0 +1,9 @@
+[
+     {
+       "key": "traffic_sign",
+       "value": "NL:G12a",
+       "description": "Cyclepath Sign / Fietspad Teken (NL G12a)",
+       "object_types": ["node"],
+       "icon_url": "https://commons.wikimedia.org/wiki/File:Nederlands_verkeersbord_G12a.svg"
+     }
+]
