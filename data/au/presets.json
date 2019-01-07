@@ -1,2 +1,1739 @@
 [
+  {
+    "key": "traffic_sign",
+    "value": "AU:MR-RP-8",
+    "description": "No Pedestrian Crossing (Used in Western Australia)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R1-1",
+    "description": "Stop",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R1-2",
+    "description": "Give Way",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R1-3",
+    "description": "Give Way at Roundabout",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R1-4",
+    "description": "Stop when Traffic Lights are off or flashing (Used in New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R1-V6",
+    "description": "Give Way to Stock (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-10",
+    "description": "Give Way to Pedestrians",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-11",
+    "description": "Two-way Traffic",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-14",
+    "description": "Turn Left",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-14",
+    "description": "Turn Right",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-15",
+    "description": "U-turn Permitted",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-17",
+    "description": "One Way (forward)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-19",
+    "description": "Left Lane Must Exit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-2",
+    "description": "One Way (left)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-2",
+    "description": "One Way (right)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-20",
+    "description": "Left turn on red permitted after stopping",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-21",
+    "description": "Right Turn from Left Only (Used in Victoria and Gold Coast, Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-22",
+    "description": "No Hook Turn by Bicycles (Used in Victoria and Gold Coast, Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-3",
+    "description": "Keep Left",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-3",
+    "description": "Keep Right",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-4",
+    "description": "No Entry (Excluding the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-4",
+    "description": "No Entry (Used in the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-5",
+    "description": "No U-turn (Excluding the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-5",
+    "description": "No U-turn (Used in the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-6",
+    "description": "No Left Turn (Excluding the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-6",
+    "description": "No Left Turn (Used in the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-6",
+    "description": "No Right Turn (Excluding the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-6",
+    "description": "No Right Turn (Used in the Australian Capital Territory, New South Wales and the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-7",
+    "description": "No Turns",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-9",
+    "description": "Left Lane Must Turn Left",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-9",
+    "description": "Right Lane Must Turn Right",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-Q02",
+    "description": "Through Traffic Keep Left (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-V110",
+    "description": "Give Way to Trams (Used in Victoria and Gold Coast, Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-V111",
+    "description": "Give Way to Bicycles (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-V112",
+    "description": "Bicycles Give Way to Trams (Used in Victoria and Gold Coast, Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-V122",
+    "description": "Keep Left at Islands (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R2-V21-1",
+    "description": "Right Turn from Left Ahead (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-1",
+    "description": "Pedestrian Crossing",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-1",
+    "description": "Pedestrian Crossing (with target board) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-2",
+    "description": "Safety Zone (Excluding the Australian Capital Territory and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-3",
+    "description": "Children Crossing (flags are displayed near crossings around schools)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-3",
+    "description": "Children Crossing (flags are displayed near crossings around schools) (Used in the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-5",
+    "description": "Pedestrians may Cross Diagonally (left)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-5",
+    "description": "Pedestrians may Cross Diagonally (right)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-Q01",
+    "description": "Walk to Island and Wait for Further Signal (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R3-V102",
+    "description": "Pedestrians use Overpass (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "100 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "110 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "130 km/h Speed Limit (Used in the Northern Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "40 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "50 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "60 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "70 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "80 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-1",
+    "description": "90 km/h Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-10",
+    "description": "Speed Zone Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-11",
+    "description": "End of Speed Zone Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-12",
+    "description": "End of Speed Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-2",
+    "description": "Speed Derestriction",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-230",
+    "description": "School Zone (Used in New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-3",
+    "description": "Road Work",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-4",
+    "description": "Shared Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-5",
+    "description": "End of Shared Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-Q01",
+    "description": "School Zone (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-Q03",
+    "description": "School Zone Ahead (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-Q04",
+    "description": "School Zone (Used at T-junctions) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-Q07",
+    "description": "Hospital Zone (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-V105",
+    "description": "School Zone (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-V108",
+    "description": "Speed Limit Ahead (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-V111",
+    "description": "New Speed Limit Ahead (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-V114",
+    "description": "40 km/h Speed Limit at Times (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R4-V119",
+    "description": "New Limit(Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-1",
+    "description": "Parking Permitted: 1 Hour (1 time of parking)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-10",
+    "description": "Parking Permitted: No Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-12",
+    "description": "Parking Permitted: 2 Minutes",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-13",
+    "description": "Parking Permitted: 5 Minutes",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-14",
+    "description": "Parking Permitted: 10 Minutes",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-15",
+    "description": "Parking Permitted: 15 Minutes",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-16",
+    "description": "Parking Permitted: Half Hours",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-17",
+    "description": "Parking Permitted: 1 and a Half Hours",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-2",
+    "description": "Parking Permitted: 2 Hours (2 times of parking)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-20",
+    "description": "Bus Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-21",
+    "description": "Taxi Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-22",
+    "description": "Permit Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-23",
+    "description": "Loading Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-24",
+    "description": "Truck Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-25",
+    "description": "Works Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-26",
+    "description": "Mail Zone",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-35",
+    "description": "No Stopping",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-35",
+    "description": "No Stopping (Used in the Australian Capital Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-36",
+    "description": "No Stopping at times",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-36",
+    "description": "No Stopping: School times",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-39",
+    "description": "Tow-Away Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-40",
+    "description": "No Parking",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-40",
+    "description": "No Parking (Used in the Australian Capital Territory)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-400",
+    "description": "No Stopping (Used in New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-41",
+    "description": "No Parking at Times",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-45",
+    "description": "Clearway",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-46",
+    "description": "Clearway at times",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-51",
+    "description": "End Clearway",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-58",
+    "description": "Emergency Stopping Lane Only",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-61",
+    "description": "2 Hour Parking Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-62",
+    "description": "2 Hour Parking Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-63",
+    "description": "End of 2 Hour Parking Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-64",
+    "description": "Area Parking Control Ahead",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-65",
+    "description": "Park in Bays Only",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-71",
+    "description": "No Stopping Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-72",
+    "description": "No Stopping Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-73",
+    "description": "End of No Stopping Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-81",
+    "description": "No Parking Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-82",
+    "description": "No Parking Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-83",
+    "description": "End of No Parking Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-Q01",
+    "description": "Tow-Away Zone (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-Q04",
+    "description": "Loading Zone (Maximum of 2 Minutes for Passengers) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-Q05",
+    "description": "Loading Zone (Maximum of 20 Minutes for Commercial Vehicles) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-V103",
+    "description": "New Clearway Times (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R5-V104",
+    "description": "New Times (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-1",
+    "description": "No Overtaking or Passing",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-10-1",
+    "description": "No Buses",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-10-2",
+    "description": "No Trucks",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-10-3",
+    "description": "No Bicycles",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-11",
+    "description": "Low Clearance Marker",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-12",
+    "description": "Clearance Marker",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-13",
+    "description": "Prohibited on Freeways",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-14",
+    "description": "Stop Here on Red Arrow",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-15",
+    "description": "No Pedestrians",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-17",
+    "description": "Bridge Load Limit (Per Axle Group)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-18",
+    "description": "Buses Must Enter (Checking stations and weighbridges are set up on roads for buses to check their weight and length)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-19",
+    "description": "Start Motorway",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-2",
+    "description": "No Overtaking on Bridge",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-20",
+    "description": "Motorway Entrance",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-21",
+    "description": "End Motorway",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-22",
+    "description": "Trucks & Buses Must Use Low Gear",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-23",
+    "description": "End Truck & Bus Low Gear Area",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-24",
+    "description": "Railway Crossbuck",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-249",
+    "description": "Wet weather Speed Limit (Used in New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-25",
+    "description": "Railway Crossbuck (with red backing board)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-256",
+    "description": "Stop Here on Red Arrow, Otherwise turn left with care (Used in New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-26",
+    "description": "Tramway Crossbuck",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-27",
+    "description": "Trucks Must Enter (Checking stations and weighbridges are set up on roads for trucks to check their weight and length)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-28",
+    "description": "Trucks Use Left Lane",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-29",
+    "description": "Keep Left Unless Overtaking",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-3",
+    "description": "Bridge Load Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-30",
+    "description": "Median Turning Lane",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-31",
+    "description": "Give Way to Buses",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-32",
+    "description": "End Keep Left Unless Overtaking",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-33",
+    "description": "Overall Length Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-4",
+    "description": "Gross Load Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-5",
+    "description": "End Load Limit",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-6",
+    "description": "Stop Here on Red Signal",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-7",
+    "description": "Hand Held Stop Sign (for children crossings)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-8",
+    "description": "Hand Held Stop Sign (for roadworks)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-9",
+    "description": "Stop on Red Signal",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-Q01",
+    "description": "Prohibited on Motorways (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R6-V106",
+    "description": "Truck restriction ends (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-1-1",
+    "description": "Bus Lane",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-1-3",
+    "description": "Truck Lane",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-1-4",
+    "description": "Bicycle Lane",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-2",
+    "description": "Ahead (Used with bus, transit or truck lane signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-3",
+    "description": "Left Lane (Used with bus, transit or truck lane signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-4",
+    "description": "End",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-5",
+    "description": "Lane Clearance",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-7-1",
+    "description": "T2 Transit Lane (you must have 2 or more people in the vehicle) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-7-2",
+    "description": "T3 Transit Lane (you must have 3 or more people in the vehicle) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-7-3",
+    "description": "T2 Transit Lane Restriction (2 people or more (1 driver, 1 passenger) (Used in Queensland and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-7-4",
+    "description": "T2 Transit Lane Restriction (2 people or more (1 driver, 1 passenger) (Used in Queensland and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-7-5",
+    "description": "T3 Transit Lane Restriction (3 people or more (1 driver, 2 passengers) (Used in Queensland and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-7-6",
+    "description": "T3 Transit Lane Restriction (3 people or more (1 driver, 2 passengers) (Used in Queensland and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-8",
+    "description": "Buses Only",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-9-1",
+    "description": "End of T2 Transit Lane (Used in Queensland and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-9-2",
+    "description": "End of T3 Transit Lane (Used in Queensland and New South Wales)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-Q01",
+    "description": "Ahead on Side Road (left) (Used with bus, transit or truck lane signs) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-Q01",
+    "description": "Ahead on Side Road (right) (Used with bus, transit or truck lane signs) (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R7-Q04",
+    "description": "Bus Lane Ahead (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R8-1",
+    "description": "Bicycles Only",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R8-2",
+    "description": "Shared Path",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R8-3",
+    "description": "Separated Path",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-1-1",
+    "description": "Time of Operation (Single time) (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-1-2",
+    "description": "Time of Operation (Double times) (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-1-3",
+    "description": "At All Times",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-2",
+    "description": "Buses Excepted",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-3",
+    "description": "Bicycles Excepted",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-4",
+    "description": "Authorised Vehicles Excepted",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-6-1",
+    "description": "Distance (in metres) (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-6-2",
+    "description": "Distance (in metres) (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-7-1",
+    "description": "Distance (in kilometres) (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-7-2",
+    "description": "Distance (in kilometres) (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-8",
+    "description": "At Street Name (Used with No u-turn, No left turn, No right turn or No turns signs)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-9",
+    "description": "One Lane",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-Q01",
+    "description": "Buses and Taxis Excepted (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-Q02",
+    "description": "Trucks Excepted (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-Q03",
+    "description": "Police Excepted (Used in Queensland)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  },
+  {
+    "key": "traffic_sign",
+    "value": "AU:R9-V108",
+    "description": "School Times (Used in Victoria)",
+    "object_types": [
+      "node"
+    ],
+    "icon_url": null
+  }
 ]
